@@ -1,0 +1,25 @@
+.container .cards-title {
+  text-align: center;
+  font-size: 24px;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+.card {
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  padding: 10px 20px;
+  border-radius: 3px;
+  border: 1px solid rgba(0,0,0,0.1);
+  text-align: center
+}
+.card img {
+  height: 130px;
+  width: 100px;
+}
+.card p {
+  color: #ADADAD;
+}

@@ -1,0 +1,18 @@
+.banner {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+}
+.banner h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+.banner p {
+  color: rgba(255,255,255, 0.7);
+
+  font-size: 20px;
+}
+.banner .container {
+
+}

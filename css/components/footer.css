@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2C2B2B;
+  padding: 50px 0px
+
+}
+.footer .social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer a {
+  font-size: 30px;
+  color: #1DDD88;
+}
+
+.footer p {
+  color: #6B6C6C;
+  font-size: 16px;
+  text-align: center;
+}
